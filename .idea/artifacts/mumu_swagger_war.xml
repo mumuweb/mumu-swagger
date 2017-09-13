@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mumu-swagger:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="mumu-swagger.war">
+      <element id="artifact" artifact-name="mumu-swagger:war exploded" />
+    </root>
+  </artifact>
+</component>
