@@ -1,7 +1,7 @@
 # mumu-swagger spring集成swagger2
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/mumudemo/mumu-kafka/blob/master/LICENSE) 
 [![Maven Central](https://img.shields.io/maven-central/v/com.weibo/motan.svg?label=Maven%20Central)](https://github.com/mumuweb/mumu-swagger) 
-[![Build Status](https://travis-ci.org/mumuweb/mumu-swagger.svg?branch=master)](https://travis-ci.org/mumuweb/mumu-kafka)
+[![Build Status](https://travis-ci.org/mumuweb/mumu-swagger.svg?branch=master)](https://travis-ci.org/mumuweb/mumu-swagger)
 [![codecov](https://codecov.io/gh/mumuweb/mumu-swagger/branch/master/graph/badge.svg)](https://codecov.io/gh/mumuweb/mumu-swagger)
 [![OpenTracing-1.0 Badge](https://img.shields.io/badge/OpenTracing--1.0-enabled-blue.svg)](http://opentracing.io)
 
