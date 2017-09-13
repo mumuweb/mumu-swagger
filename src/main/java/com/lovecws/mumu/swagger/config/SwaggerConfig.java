@@ -1,3 +1,15 @@
+/*
+ * *
+ *  <p>Title: ${file_name}</p>
+ *  <p>Description: </p>
+ *  <p>Copyright: Copyright (c) 2017</p>
+ *  <p>Company: www.chuasi.com</p>
+ *  @author babymm
+ *  @date ${date}
+ *  @version 1.0
+ * /
+ */
+
 package com.lovecws.mumu.swagger.config;
 
 import org.springframework.context.annotation.Bean;
@@ -18,6 +30,11 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 @Configuration
 public class SwaggerConfig {
 
+    /**
+     * Create rest api docket.
+     *
+     * @return the docket
+     */
     @Bean
     public Docket createRestApi() {
         return new Docket(DocumentationType.SWAGGER_2)
