@@ -151,8 +151,8 @@ public class UserController {
 ```
 
 **运行效果**  
-![运行效果图1](https://github.com/mumuweb/mumu-swagger/doc/img/swagger1.png)  
-![运行效果图2](https://github.com/mumuweb/mumu-swagger/doc/img/swagger2.png)
+![运行效果图1](https://github.com/mumuweb/mumu-swagger/blob/master/doc/img/swagger1.png)  
+![运行效果图2](https://github.com/mumuweb/mumu-swagger/blob/master/doc/img/swagger1.png)
 
 查看文档详情，请点击[https://mumuweb.github.io/mumu-swagger/](https://mumuweb.github.io/mumu-swagger/)
 ## 相关阅读  
